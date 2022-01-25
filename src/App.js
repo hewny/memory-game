@@ -4,9 +4,12 @@ import Header from "./components/Header"
 import Cards from "./components/Cards"
 
 const App = () => {
+  const [score, setScore] = useState(0);
+  const [highscore, setHighscore] = useState(0);
+
   return (
     <div className="App">
-      <Header />
+      <Header score={score} setScore={setScore} highscore={highscore} setHighscore={setHighscore}/>
       <Cards />
     </div>
   );

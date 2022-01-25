@@ -1,9 +1,13 @@
 import './App.css';
+import { useState } from "react"
+import Header from "./components/Header"
+import Cards from "./components/Cards"
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      EMPTY
+      <Header />
+      <Cards />
     </div>
   );
 }

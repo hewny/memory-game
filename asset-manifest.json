@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.297c1bf2.css",
-    "main.js": "/static/js/main.e8401fac.js",
-    "static/js/787.69b12325.chunk.js": "/static/js/787.69b12325.chunk.js",
-    "static/media/burger.png": "/static/media/burger.36cdf07b5864331ec949.png",
-    "static/media/pretzel.png": "/static/media/pretzel.6faa79f596968e21dbff.png",
-    "static/media/beer.png": "/static/media/beer.b6ed873d6b16210bf7bd.png",
-    "static/media/sushi.png": "/static/media/sushi.7aa58e13164b734ef0c1.png",
-    "static/media/cookie.png": "/static/media/cookie.67dd06021369246cc978.png",
-    "static/media/pizza.png": "/static/media/pizza.57b7b9d4a27b4e56f0a8.png",
-    "static/media/popcorn.png": "/static/media/popcorn.afac1ce2b3ce854a9478.png",
-    "static/media/hotdog.png": "/static/media/hotdog.72d39d56d9c1306b073e.png",
-    "static/media/coffee.png": "/static/media/coffee.d96a3e6ab48a55a1c993.png",
-    "static/media/chocolate.png": "/static/media/chocolate.1671249ba00297d8ac24.png",
-    "static/media/icecream.png": "/static/media/icecream.3e0ec88d520b805327db.png",
-    "static/media/chicken.png": "/static/media/chicken.2fcd621deabf93135ec3.png",
-    "index.html": "/index.html",
-    "main.297c1bf2.css.map": "/static/css/main.297c1bf2.css.map",
-    "main.e8401fac.js.map": "/static/js/main.e8401fac.js.map",
-    "787.69b12325.chunk.js.map": "/static/js/787.69b12325.chunk.js.map"
+    "main.css": "/memory-game/static/css/main.297c1bf2.css",
+    "main.js": "/memory-game/static/js/main.46cbbd82.js",
+    "static/media/burger.png": "/memory-game/static/media/burger.36cdf07b5864331ec949.png",
+    "static/media/pretzel.png": "/memory-game/static/media/pretzel.6faa79f596968e21dbff.png",
+    "static/media/beer.png": "/memory-game/static/media/beer.b6ed873d6b16210bf7bd.png",
+    "static/media/sushi.png": "/memory-game/static/media/sushi.7aa58e13164b734ef0c1.png",
+    "static/media/cookie.png": "/memory-game/static/media/cookie.67dd06021369246cc978.png",
+    "static/media/pizza.png": "/memory-game/static/media/pizza.57b7b9d4a27b4e56f0a8.png",
+    "static/media/popcorn.png": "/memory-game/static/media/popcorn.afac1ce2b3ce854a9478.png",
+    "static/media/hotdog.png": "/memory-game/static/media/hotdog.72d39d56d9c1306b073e.png",
+    "static/media/coffee.png": "/memory-game/static/media/coffee.d96a3e6ab48a55a1c993.png",
+    "static/media/chocolate.png": "/memory-game/static/media/chocolate.1671249ba00297d8ac24.png",
+    "static/media/icecream.png": "/memory-game/static/media/icecream.3e0ec88d520b805327db.png",
+    "static/media/chicken.png": "/memory-game/static/media/chicken.2fcd621deabf93135ec3.png",
+    "index.html": "/memory-game/index.html",
+    "main.297c1bf2.css.map": "/memory-game/static/css/main.297c1bf2.css.map",
+    "main.46cbbd82.js.map": "/memory-game/static/js/main.46cbbd82.js.map"
   },
   "entrypoints": [
     "static/css/main.297c1bf2.css",
-    "static/js/main.e8401fac.js"
+    "static/js/main.46cbbd82.js"
   ]
 }

@@ -1,10 +1,14 @@
 const Header = (props) => {
-    const {score, setScore, highscore, setHighscore} = props
+  const { score, highscore } = props;
 
-    return <div className="header"> <h1>MEMORY GAME</h1>
-        <p>Current Score: {score}</p>
-        <p>High Score: {highscore}</p>
+  return (
+    <div className="header">
+      {" "}
+      <h1>MEMORY GAME</h1>
+      <p>Current Score: {score}</p>
+      <p>High Score: {highscore}</p>
     </div>
-}
+  );
+};
 
-export default Header
+export default Header;

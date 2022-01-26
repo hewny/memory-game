@@ -9,8 +9,8 @@ const App = () => {
 
   return (
     <div className="App">
-      <Header score={score} setScore={setScore} highscore={highscore} setHighscore={setHighscore}/>
-      <Cards />
+      <Header score={score} highscore={highscore} />
+      <Cards score={score} setScore={setScore} highscore={highscore} setHighscore={setHighscore}/>
     </div>
   );
 }

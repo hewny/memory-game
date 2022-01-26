@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Images from "../img/index";
 
 const Cards = (props) => {
@@ -43,13 +43,15 @@ const Cards = (props) => {
       }
       setScore(0);
       setMoveList([])
-      shuffleList();
     } else {
       setScore(score + 1);
       setMoveList([...moveList, cardList[index]]);
-      shuffleList();
     }
   };
+
+  useEffect(() => {
+    shuffleList()
+  }, [score])
 
   return (
     <div className="card-container">
